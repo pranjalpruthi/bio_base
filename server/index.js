@@ -19,7 +19,8 @@ app.get("/", (req, res) => {
   res.send("Hello to Bio Base API");
 });
 
-//const CONNECTION_URL = "mongodb+srv://pranjalpruthi:biobase22may1998@biobase.3oq8u.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+const CONNECTION_URL =
+  "mongodb+srv://pranjalpruthi:biobase22may1998@biobase.3oq8u.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 
 const PORT = process.env.PORT || 5000;
 

@@ -15,3 +15,5 @@ Setup:
 TODO: rename post message, refactor reducers, add some cool presentations, maybe clickable tags, fix update functionality
 # Update style--add-new-styles-for-the-user-profile-page-1
 This is a small update for PR style--add-new-styles-for-the-user-profile-page-1.
+# Bio Base Documentation Update
+This PR updates the README file with new instructions.

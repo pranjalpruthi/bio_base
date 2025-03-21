@@ -13,3 +13,5 @@ Setup:
 - run `npm i && npm start` for both client and server side to start the app
 
 TODO: rename post message, refactor reducers, add some cool presentations, maybe clickable tags, fix update functionality
+# Update style--add-new-styles-for-the-user-profile-page-1
+This is a small update for PR style--add-new-styles-for-the-user-profile-page-1.
